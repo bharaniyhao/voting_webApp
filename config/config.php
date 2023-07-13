@@ -2,7 +2,7 @@
 // Database configuration
 $db_host = 'localhost';
 $db_username = 'root';
-$db_password = '';
+$db_password = 'password';
 $db_name = 'voting_website';
 
 // Site URLs
